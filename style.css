@@ -1,0 +1,52 @@
+body{
+    background-color: rgb(154, 192, 226);
+}
+#menu{
+    background-color: antiquewhite;
+}
+h1{
+    text-align: center;
+}
+#directo{
+    position: absolute;
+    text-align: right;
+    right: 50px;
+    top: 40px;
+}
+
+#logo{
+    width: 200px;
+    position: absolute;
+    top: 20px;
+}
+
+footer{
+    position: static;
+    background-color: gray;
+    height: 200px;
+}
+
+#izquierda{
+ position: relative;
+ top: 10px;
+ left: 10px;
+    
+}
+
+#logobajo{
+    width: 200px;
+}
+
+#centro{
+    position: relative;
+    left: 890px;
+    bottom: 120px;
+}
+
+#formulario{
+    position: relative;
+    left: 1600px;
+    width: 80px;
+    bottom: 210px;
+}
+
